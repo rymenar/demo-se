@@ -1,2 +1,4 @@
 # demo-se
-Demo dor software engineering
+Demo for software engineering
+Hello, world
+
