@@ -1,4 +1,4 @@
-text file add some info
+text file add some info Kabanchuk
 for git testing
 русский язык
 
