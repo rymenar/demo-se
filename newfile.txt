@@ -2,4 +2,4 @@ text file add some info
 for git testing
 русский язык
 
-03.03.2016 kappa937
+03.03.2016 kappa937 14:16 !!!!!! 
